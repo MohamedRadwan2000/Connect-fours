@@ -10,5 +10,5 @@ Connect fours game
 <br>
 (2) Then Play
 <br>
-![image](https://user-images.githubusercontent.com/60818439/169527416-a9fefbde-1d5d-4c9e-af73-76ecd78b4ef6.png)
 
+![image](https://user-images.githubusercontent.com/60818439/169527742-cbef4c64-02a1-4660-9c5c-365c05f7955a.png)
