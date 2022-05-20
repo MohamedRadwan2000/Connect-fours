@@ -1,9 +1,10 @@
 # Connect-fours
 Connect fours game
-(1)
+(1)\n
 -Write player name.
 -Select PC algorithm.
 -K level of branching factor.
+
 ![image](https://user-images.githubusercontent.com/60818439/169526966-fd9be153-5472-44ec-8c41-2ebca0343757.png)
 
 (2) Then Play
